@@ -31,8 +31,3 @@ broke=''
 for se in range(0,length):
     broke+=password[se]
 print(f"Your Randomized password is {broke}\n Have Fun!")
-
-
-
-
-
